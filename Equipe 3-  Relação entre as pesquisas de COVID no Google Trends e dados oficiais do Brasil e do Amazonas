@@ -1,0 +1,39 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled20.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyNbr3pjxq/2MGM60RGB4xwc",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Klemersoncastro/google_trends_covid/blob/grupo/Equipe%203-%20%20Rela%C3%A7%C3%A3o%20entre%20as%20pesquisas%20de%20COVID%20no%20Google%20Trends%20e%20dados%20oficiais%20do%20Brasil%20e%20do%20Amazonas\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "QkEStFvTVZCI"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
